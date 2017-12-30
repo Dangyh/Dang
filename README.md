@@ -1,4 +1,4 @@
 # Dang
-Tor the future
+For the future
 This is my first commit
-This is for future
+This is for master and future
